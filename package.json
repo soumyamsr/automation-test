@@ -1,0 +1,17 @@
+{
+  "name": "automation-test",
+  "version": "1.0.0",
+  "description": "Automation test scripts using Puppeteer",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "Soumya Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.6.2"
+  }
+}
