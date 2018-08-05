@@ -29,6 +29,5 @@ Thumbs.db
 
 # Folders or files to ignore
 node_modules
-screenshots/*.png
-screenshots/*.pdf
+screenshots
 package-lock.json
